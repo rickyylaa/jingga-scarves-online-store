@@ -15,8 +15,8 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer lokal A
 Pertama, clone repositori ini ke mesin lokal Anda:
 
 ```bash
-git clone https://github.com/rickyylaa/ecommerce-jingga-scarves.git
-cd ecommerce-jingga-scarves
+git clone https://github.com/rickyylaa/jingga-scarves-online-store.git
+cd jingga-scarves-online-store
 ```
 
 ### 2. Install Dependensi
