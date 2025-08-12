@@ -1,4 +1,4 @@
-# 🚗 Toko Online Jilbab dan Aksesoris Fashion Pada Jingga Scarves
+# 🧕🏻 Toko Online Jilbab Fashion Pada Jingga Scarves
 
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-orange.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.0+-purple.svg)](https://php.net)
